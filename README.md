@@ -1,16 +1,13 @@
-### Hi there 👋
+# Amentes
 
-<!--
-**Amenteso/Amenteso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.sh/github.com/Amenteso/robloxscripts.svg)](https://hits.sh/github.com/Amenteso/robloxscripts/)
+[![Hits](https://hits.sh/github.com/Amenteso.svg)](https://hits.sh/github.com/Amenteso/)<br>
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=amenteso&hide=contribs,prs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amenteso&layout=compact)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/amenteso/count.svg" /> <br>
+</p><br>
